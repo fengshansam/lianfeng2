@@ -1,5 +1,5 @@
 body{font-family: "microsoft yahei";}
-.banner_bk{background: url(../images/aboutUs_banner_02.jpg) no-repeat center;}
+.banner_bk{background: url(../images/aboutUs_banner_02.jpg) no-repeat center;background-position: -360px 0;}
 .banner{height: 705px;position: relative;}
 /*二级导航*/
 .subnav{position: absolute;bottom: 0;left: 221px;}

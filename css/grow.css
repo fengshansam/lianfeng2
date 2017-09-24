@@ -18,7 +18,7 @@ body{font-family: arial,"Micrsoft YaHei",'宋体';}
 	clear:both;*/
 }
 /*banner区域样式*/
-.grow_banner{position:relative;height:500px;margin: 0 auto;background:url(../images/grow_banner_02.jpg) no-repeat center}
+.grow_banner{background-position: -360px 0;position:relative;height:500px;margin: 0 auto;background:url(../images/grow_banner_02.jpg) no-repeat center}
 /*二级导航*/
 .grow_banner .subnav{position: absolute;bottom: 0;left:35%}
 .grow_banner .subnav li{height: 67px;width: 182px;margin-right: 10px;float: left;background: white;opacity: .8;text-align: center;line-height: 67px;font-size: 20px;cursor: pointer;}

@@ -1,5 +1,5 @@
 a{font-size14px;color:#5a5a5a;}
-.banner .inner{background:url(../images/fran_banner.png) no-repeat center;height:442px;width:100%;position: relative;background-size: cover;display: flex;justify-content: center;align-items: flex-end;}
+.banner .inner{background-position: -360px 0;background:url(../images/fran_banner.png) no-repeat center;height:442px;width:100%;position: relative;background-size: cover;display: flex;justify-content: center;align-items: flex-end;}
 .banner ul{}
 .banner ul li{width: 182px;height: 68px;font-size: 20px;line-height: 68px;text-align: center;background: #fff;cursor: pointer;opacity: .8;float: left;margin:0 10px;}
 .banner ul .ac{background: #e1b51a;}

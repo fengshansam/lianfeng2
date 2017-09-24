@@ -1,4 +1,4 @@
-.banner{background: url(../images/图层-2.png) no-repeat center;height: 440px;border-bottom: 1px solid #000;position:relative}
+.banner{background: url(../images/图层-2.png) no-repeat center;height: 440px;border-bottom: 1px solid #000;position:relative;background-position: -360px 0;}
 .banner h1{font-size: 80px;color: #fefefe;text-align: center;line-height: 400px;}
 /*二级导航*/
 .subnav{position: absolute;bottom: 0;left:50%;margin-left: -500px;}
